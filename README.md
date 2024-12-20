@@ -1,4 +1,4 @@
-# groovy-web-maven-springboot-jsp-hello-world
+# groovy-web-maven-springboot-jsp-jstl-hello
 
 ## Description
 A POC for spring framework.
